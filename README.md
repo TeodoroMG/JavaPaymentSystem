@@ -1,6 +1,6 @@
-#JavaPaymentSystem
+# JavaPaymentSystem
 
-##Sistema de Tarjeta de Crédito
+## Sistema de Tarjeta de Crédito
 
 Este proyecto Java implementa un sistema de tarjeta de crédito que permite realizar compras hasta un límite predefinido y muestra un resumen de las compras realizadas y el saldo restante.
 
